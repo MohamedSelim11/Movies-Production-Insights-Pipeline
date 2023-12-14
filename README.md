@@ -117,7 +117,7 @@ Transforming data into actionable insights through Power BI dashboards
 
 * **CDC Implementation**
 
-      * Files (Archiving)
+   * Files (Archiving)
         - Before running MoviesStagingArea_ETL Dag
 
   ![satging_file_1](https://github.com/3amory99/Movies-Production-Insights-Pipeline/blob/master/03_Screenshots/File%20CDC%201.jpeg)
@@ -125,7 +125,16 @@ Transforming data into actionable insights through Power BI dashboards
         - After running MoviesStagingArea_ETL Dag
   
   ![satging_file_2](https://github.com/3amory99/Movies-Production-Insights-Pipeline/blob/master/03_Screenshots/File%20CDC%202.jpeg)
-  
+
+
+    * Database (Metadata)
+      The following functions are designed for data extraction from a PostgreSQL database utilizing Change Data Capture (CDC) principles. Each function performs a selective extraction based on the last update           date and subsequently updates the metadata information in the meta_data table.
+    1. UpdateMetaData
+    Purpose: Updates metadata information in the meta_data table, indicating the last update date for a specific table.
+      - Before Update Meta Table :
+         -![database _cdc](https://github.com/3amory99/Movies-Production-Insights-Pipeline/blob/master/03_Screenshots/02.png)
+      - After Update Meta Table :
+         -![database _cdc](https://github.com/3amory99/Movies-Production-Insights-Pipeline/blob/master/03_Screenshots/05.png)
 
 
 
