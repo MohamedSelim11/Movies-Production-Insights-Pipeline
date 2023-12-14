@@ -182,24 +182,43 @@ Transforming data into actionable insights through Power BI dashboards
 
 These metadata categories allow you to define the structure of your data at design time, making your Talend jobs more modular and easier to maintain. By using metadata, you can also achieve better reusability of your job designs and streamline the management of connections and data structures.
 
-  ![database _cdc](https://github.com/3amory99/Movies-Production-Insights-Pipeline/blob/master/03_Screenshots/08.png)
+  ![talend metadata](https://github.com/3amory99/Movies-Production-Insights-Pipeline/blob/master/03_Screenshots/08.png)
 
   * Movie Dimension (MovieDim)
 
-  ![database _cdc](https://github.com/3amory99/Movies-Production-Insights-Pipeline/blob/master/03_Screenshots/09.png)
+  ![Movie Dimension](https://github.com/3amory99/Movies-Production-Insights-Pipeline/blob/master/03_Screenshots/09.png)
     
   * Production Dimension (ProductionDim)
 
-  ![database _cdc](https://github.com/3amory99/Movies-Production-Insights-Pipeline/blob/master/03_Screenshots/11.png)
+  ![Production Dimension](https://github.com/3amory99/Movies-Production-Insights-Pipeline/blob/master/03_Screenshots/11.png)
     
   * Person Dimension (PersonDim)
 
-  ![database _cdc](https://github.com/3amory99/Movies-Production-Insights-Pipeline/blob/master/03_Screenshots/10.png)
+  ![Person Dimension](https://github.com/3amory99/Movies-Production-Insights-Pipeline/blob/master/03_Screenshots/10.png)
     
   * Date Dimension (DimDate)
 
-  ![database _cdc](https://github.com/3amory99/Movies-Production-Insights-Pipeline/blob/master/03_Screenshots/12.png)
+  ![Date Dimension](https://github.com/3amory99/Movies-Production-Insights-Pipeline/blob/master/03_Screenshots/12.png)
     
   * Movies Fact (MoviesFact)
 
-  ![database _cdc](https://github.com/3amory99/Movies-Production-Insights-Pipeline/blob/master/03_Screenshots/13.png)
+  ![Movies Fact](https://github.com/3amory99/Movies-Production-Insights-Pipeline/blob/master/03_Screenshots/13.png)
+
+
+
+**Reporting & Insights**
+  * Insights derived from the data warehouse were visualized using Power BI.
+    
+  * The Movies Insights Dashboard presented key metrics, including the count of movies and revenue by company, production revenue by language type, count of movies and revenue by person, and individual movie details with revenue
+
+  * **Power BI**
+    
+     ![dashboard](https://github.com/3amory99/Movies-Production-Insights-Pipeline/blob/master/03_Screenshots/16.jpeg)
+
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/3amory99/Movies-Production-Insights-Pipeline.git
+
+    
