@@ -1,3 +1,5 @@
+**Abstract**
+
 The Movies Production Insights Pipeline Project aimed to design and implement an efficient data pipeline for the movie industry. The primary objectives included:
 
 - Data Integration: Consolidate diverse data sources related to persons, movies, genres, production, and more into a centralized data warehouse.
@@ -15,7 +17,8 @@ The Movies Production Insights Pipeline Project aimed to design and implement an
 - Visualization: Integrate Power BI for insightful visualization, allowing users to explore trends, patterns, and relationships within the movie industry.
 This documentation provides a high-level overview of the project's objectives, methodologies, and implementation strategies.
 
-Meet OurTeam:
+**Meet OurTeam:**
+
 * Omar Mahmoud
 * Osama Tarek
 * Abdullah Mahmoud
@@ -24,3 +27,13 @@ Meet OurTeam:
 * Youssef Ashraf
   
     ![team](https://github.com/3amory99/Movies-Production-Insights-Pipeline/blob/master/03_Screenshots/Team.png)
+
+**Project Overview**:
+
+The Movies Production Insights Pipeline – a revolutionary project poised to transform the way we navigate the dynamic realm of filmmaking. Leveraging data sourced from the Movie Production Database
+
+* Descriptive Analysis on Movies Dataset using BI-Dashboard.
+* Our mission: to empower and provide your business team with a streamlined solution and data pipeline.
+* Our pipeline: encapsulates production details, movie insights, personnel data, crew information, and critical performance measures. This succinct integration allows for swift and informed decision-making in an industry where timing and precision are paramount.
+
+
