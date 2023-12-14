@@ -141,8 +141,14 @@ Transforming data into actionable insights through Power BI dashboards
          -![database _cdc](https://github.com/3amory99/Movies-Production-Insights-Pipeline/blob/master/03_Screenshots/05.png)
 
 
+**Airflow Dags**
+   * MoviesStagingArea_ETL Dag
 
-
+     -![first dag](https://github.com/3amory99/Movies-Production-Insights-Pipeline/blob/master/03_Screenshots/04.png)
+       
+   * Talend_ETL Dag
+     
+     -![second dag](https://github.com/3amory99/Movies-Production-Insights-Pipeline/blob/master/03_Screenshots/07.png)
 
 
 
