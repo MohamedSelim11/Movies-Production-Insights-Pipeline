@@ -61,6 +61,6 @@ The Movies Production Insights Pipeline – a revolutionary project poised to tr
   * person (104842)
   * production_company (5047)
   * production_country (250)
-  [Relationa_Database_Schema](https://github.com/3amory99/Movies-Production-Insights-Pipeline/blob/master/03_Screenshots/01.png)
+  * ![Relationa_Database_Schema](https://github.com/3amory99/Movies-Production-Insights-Pipeline/blob/master/03_Screenshots/01.png)
  
   
