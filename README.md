@@ -22,5 +22,4 @@ Meet OurTeam:
     - Ataa Mohamed
     - Mohamed Selem
     - Youssef Ashraf
-
     ![team](https://github.com/3amory99/Movies-Production-Insights-Pipeline/blob/master/03_Screenshots/Team.png)
