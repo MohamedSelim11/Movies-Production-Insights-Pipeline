@@ -92,15 +92,15 @@ Transforming data into actionable insights through Power BI dashboards
 
     * The data ingestion and staging area form crucial components of a data pipeline, where PySpark plays key roles in efficiently transforming raw data into a format ready for analysis and insights.
     * Files
-      Step 1: Read Data
-      The function uses Apache Spark to read data from the specified path, creating a Spark DataFrame.
-      Step 2: Convert to Pandas DataFrame
-      The Spark DataFrame is then converted to a Pandas DataFrame. This facilitates compatibility with other data processing tools and libraries.
-      Step 3: Extract Filename and Archive
-      The function leverages the input_file_name() function to extract the filename of the processed file. It then uses the Archiving function to archive the file, ensuring that it is not processed again in subsequent DAG runs, preventing duplication.
-      Step 4: Return Result
-      The function returns the Pandas DataFrame containing the data, making it available for further processing within the data pipeline.
-      These steps outline the general process followed by each function in extracting data from different file sources and ensuring data integrity through archiving.
+      - Step 1: Read Data
+        The function uses Apache Spark to read data from the specified path, creating a Spark DataFrame.
+      - Step 2: Convert to Pandas DataFrame
+        The Spark DataFrame is then converted to a Pandas DataFrame. This facilitates compatibility with other data processing tools and libraries.
+      - Step 3: Extract Filename and Archive
+        The function leverages the input_file_name() function to extract the filename of the processed file. It then uses the Archiving function to archive the file, ensuring that it is not processed again in subsequent DAG runs, preventing duplication.
+      - Step 4: Return Result
+        The function returns the Pandas DataFrame containing the data, making it available for further processing within the data pipeline.
+        These steps outline the general process followed by each function in extracting data from different file sources and ensuring data integrity through archiving.
       
 * **Staging Area (MongoDB)**
 
