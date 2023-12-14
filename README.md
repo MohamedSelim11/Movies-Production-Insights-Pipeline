@@ -159,6 +159,9 @@ Transforming data into actionable insights through Power BI dashboards
   * The data warehouse for the Movies Production Insights Pipeline Project is structured using a denormalized star schema, optimizing the schema for efficient querying and analysis of movie-related data. The schema includes four dimension tables and one fact table, each playing a crucial role in providing comprehensive insights into movie production data.
     
   * Movies Production DWH:
+
+    ![database _cdc](https://github.com/3amory99/Movies-Production-Insights-Pipeline/blob/master/03_Screenshots/14.png)
+    
       - Movie Dimension (MovieDim)
       - Person Dimension (PersonDim)
       - Production Dimension (ProductionDim)
