@@ -62,5 +62,25 @@ The Movies Production Insights Pipeline – a revolutionary project poised to tr
   * production_company (5047)
   * production_country (250)
   * ![Relationa_Database_Schema](https://github.com/3amory99/Movies-Production-Insights-Pipeline/blob/master/03_Screenshots/01.png)
- 
-  
+
+**Movies Production Pipeline Architecture Model**
+
+* Diverse Data Sources:
+Ingesting data from JSON, XML, CSV, and traditional Relational Databases.
+
+* Spark-Powered Ingestion:
+Harnessing the speed and scalability of Apache Spark for efficient data ingestion.
+
+* Staging in MongoDB:
+Leveraging MongoDB as our staging area for seamless data transformation.
+
+* ETL Magic with Talend OS:
+Unveiling the ETL prowess of Talend Open Studio for crafting a robust Data Warehouse.
+
+* Cubing for Dimensional Brilliance:
+Building insightful cubes to unlock the dimensions of our movie data.
+
+* Power BI Dashboards:
+Transforming data into actionable insights through Power BI dashboards
+
+![Architecture Model](https://github.com/3amory99/Movies-Production-Insights-Pipeline/blob/master/03_Screenshots/The%20Architecture%20Model.jpg)
