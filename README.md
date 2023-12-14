@@ -156,12 +156,12 @@ Transforming data into actionable insights through Power BI dashboards
       - Once triggered, the task initiates the execution of the Talend_ETL DAG, signaling the beginning of the Extract, Transform, and Load (ETL) operations for building DWH.
     
 **Movies Production Insights Pipeline Project Data Warehouse**
-  * The data warehouse for the Movies Production Insights Pipeline Project is structured using a denormalized star schema, optimizing the schema for efficient querying and analysis of movie-related data. The schema includes four dimension tables and one fact table, each playing a crucial role in providing comprehensive insights into movie production data.
-    
-  * Movies Production DWH:
 
     ![database _cdc](https://github.com/3amory99/Movies-Production-Insights-Pipeline/blob/master/03_Screenshots/14.png)
+
+  * The data warehouse for the Movies Production Insights Pipeline Project is structured using a denormalized star schema, optimizing the schema for efficient querying and analysis of movie-related data. The schema includes four dimension tables and one fact table, each playing a crucial role in providing comprehensive insights into movie production data.
     
+  * Movies Production DWH:    
       - Movie Dimension (MovieDim)
       - Person Dimension (PersonDim)
       - Production Dimension (ProductionDim)
