@@ -176,6 +176,30 @@ Transforming data into actionable insights through Power BI dashboards
       - Vote Count (vote_count):
         o Count of votes received by the movie.
       - Vote Average (vote_average):
-        o Average vote rating given to the movie.
+        o Average vote rating is given to the movie.
 
+**Talend Jobs**
 
+These metadata categories allow you to define the structure of your data at design time, making your Talend jobs more modular and easier to maintain. By using metadata, you can also achieve better reusability of your job designs and streamline the management of connections and data structures.
+
+  ![database _cdc](https://github.com/3amory99/Movies-Production-Insights-Pipeline/blob/master/03_Screenshots/08.png)
+
+  * Movie Dimension (MovieDim)
+
+  ![database _cdc](https://github.com/3amory99/Movies-Production-Insights-Pipeline/blob/master/03_Screenshots/09.png)
+    
+  * Production Dimension (ProductionDim)
+
+  ![database _cdc](https://github.com/3amory99/Movies-Production-Insights-Pipeline/blob/master/03_Screenshots/11.png)
+    
+  * Person Dimension (PersonDim)
+
+  ![database _cdc](https://github.com/3amory99/Movies-Production-Insights-Pipeline/blob/master/03_Screenshots/10.png)
+    
+  * Date Dimension (DimDate)
+
+  ![database _cdc](https://github.com/3amory99/Movies-Production-Insights-Pipeline/blob/master/03_Screenshots/12.png)
+    
+  * Movies Fact (MoviesFact)
+
+  ![database _cdc](https://github.com/3amory99/Movies-Production-Insights-Pipeline/blob/master/03_Screenshots/13.png)
