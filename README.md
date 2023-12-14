@@ -17,9 +17,15 @@ This documentation provides a high-level overview of the project's objectives, m
 
 Meet OurTeam:
     - Omar Mahmoud
+    
     - Osama Tarek
+    
     - Abdullah Mahmoud
+    
     - Ataa Mohamed
+    
     - Mohamed Selem
+    
     - Youssef Ashraf
+    
     ![team](https://github.com/3amory99/Movies-Production-Insights-Pipeline/blob/master/03_Screenshots/Team.png)
