@@ -10,7 +10,7 @@ The Movies Production Insights Pipeline Project aimed to design and implement an
 
 - ETL Process: Utilize Talend for Extract, Transform, Load (ETL) processes, facilitating the seamless transfer of data from the staging area to the PostgreSQL data warehouse.
 
-- Change Data Capture (CDC): Implement a CDC strategy using the Meta_Data table to capture and track changes, ensuring the data warehouse reflects the latest information.
+- Change Data Capture (CDC): Implement a CDC strategy using the Meta_Data table to capture and track changes and use logic to archive all old files and receive only the latest files, ensuring the data warehouse reflects the latest information.
 
 - Visualization: Integrate Power BI for insightful visualization, allowing users to explore trends, patterns, and relationships within the movie industry.
 This documentation provides a high-level overview of the project's objectives, methodologies, and implementation strategies.
