@@ -14,3 +14,13 @@ The Movies Production Insights Pipeline Project aimed to design and implement an
 
 - Visualization: Integrate Power BI for insightful visualization, allowing users to explore trends, patterns, and relationships within the movie industry.
 This documentation provides a high-level overview of the project's objectives, methodologies, and implementation strategies.
+
+Meet OurTeam:
+    - Omar Mahmoud
+    - Osama Tarek
+    - Abdullah Mahmoud
+    - Ataa Mohamed
+    - Mohamed Selem
+    - Youssef Ashraf
+
+    ![team](https://github.com/3amory99/Movies-Production-Insights-Pipeline/blob/master/03_Screenshots/Team.png)
