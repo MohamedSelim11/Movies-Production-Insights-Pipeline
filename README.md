@@ -108,14 +108,24 @@ Transforming data into actionable insights through Power BI dashboards
 * **Staging Area (MongoDB)**
     * The Function is responsible for loading data into the MongoDB Staging Area for the Movies Production Insights Pipeline Project. This function takes various DataFrames as input and writes them to their respective collections in the MongoDB Staging Area.
     * **Purpose**: Transforms and loads data into the MongoDB Staging Area collections.
+      
     * Before Loading: 
     ![satging](https://github.com/3amory99/Movies-Production-Insights-Pipeline/blob/master/03_Screenshots/03.png)
+
     * After Loading:
     ![satging_2](https://github.com/3amory99/Movies-Production-Insights-Pipeline/blob/master/03_Screenshots/06.png)
- 
 
+* **CDC Implementation**
 
+      * Files (Archiving)
+        - Before running MoviesStagingArea_ETL Dag
 
+  ![satging_file_1](https://github.com/3amory99/Movies-Production-Insights-Pipeline/blob/master/03_Screenshots/File%20CDC%201.jpeg)
+
+        - After running MoviesStagingArea_ETL Dag
+  
+  ![satging_file_2](https://github.com/3amory99/Movies-Production-Insights-Pipeline/blob/master/03_Screenshots/File%20CDC%202.jpeg)
+  
 
 
 
